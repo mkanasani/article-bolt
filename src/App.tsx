@@ -12,7 +12,7 @@ export const App = () => {
       <main className="max-w-6xl mx-auto px-4 py-12">
         <div className="flex flex-col items-center text-center mb-12">
           <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-red-500 to-red-300 bg-clip-text text-transparent">
-            Transform Ideas into Articles..
+            Transform Ideas into Articles
           </h2>
           <p className="text-lg text-gray-400 max-w-2xl">
             Leverage the power of AI to generate high-quality articles from URLs or your creative ideas.
